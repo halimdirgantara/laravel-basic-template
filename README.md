@@ -10,7 +10,7 @@ di sini udah tersedia fitur & library antara lain:
 - profile page
 - crud user (ada yang render secara biasa & pake yajra)
 adapun nantinya kalo ada yang request fitur 'basic' dari setup dashboard admin boleh di share di kolom komentar yaa..
-repo: <a href="github.com/nizar-sys/laravel-basic-template" target="_blank">SUMBER: Nizar-Sys</a>
+repo: <a href="https://github.com/nizar-sys/laravel-basic-template" target="_blank">SUMBER: Nizar-Sys</a> </br>
 terimakasih 🙏
 
 
